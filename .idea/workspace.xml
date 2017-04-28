@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b2c100f-4dd6-45bb-a99b-185b8f43a39b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/symfony.phar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cacert.pem" />
-    </list>
+    <list default="true" id="1b2c100f-4dd6-45bb-a99b-185b8f43a39b" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +15,8 @@
       <file leaf-file-name="cacert.pem" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cacert.pem">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="2309" column="19" lean-forward="false" selection-start-line="2309" selection-start-column="19" selection-end-line="2309" selection-end-column="19" />
+            <state relative-caret-position="122">
+              <caret line="2306" column="59" lean-forward="false" selection-start-line="2306" selection-start-column="59" selection-end-line="2306" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -189,12 +185,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1493416255572</updated>
-      <workItem from="1493416257017" duration="912000" />
+      <workItem from="1493416257017" duration="1004000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="912000" />
+    <option name="totallyTimeSpent" value="1004000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -225,8 +221,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/cacert.pem">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="2309" column="19" lean-forward="false" selection-start-line="2309" selection-start-column="19" selection-end-line="2309" selection-end-column="19" />
+        <state relative-caret-position="122">
+          <caret line="2306" column="59" lean-forward="false" selection-start-line="2306" selection-start-column="59" selection-end-line="2306" selection-end-column="59" />
           <folding />
         </state>
       </provider>

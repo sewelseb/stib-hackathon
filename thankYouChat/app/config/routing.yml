@@ -1,3 +1,8 @@
+thank_you_chatapi:
+    type : rest
+    resource: "@thankYouChatapiBundle/Resources/config/routing.yml"
+    prefix:   /api
+
 app:
     resource: '@AppBundle/Controller/'
     type: annotation

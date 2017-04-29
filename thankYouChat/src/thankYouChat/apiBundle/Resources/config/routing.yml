@@ -1,0 +1,3 @@
+thank_you_chatapi_homepage:
+    path:     /
+    defaults: { _controller: thankYouChatapiBundle:Default:index }
